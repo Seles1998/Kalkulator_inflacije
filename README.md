@@ -1,1 +1,1 @@
-# Kalkulator_inflacije
+# Inflation calculator
